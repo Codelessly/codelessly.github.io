@@ -4,11 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2ba54df2b68ad225c21b365ac73190f3",
-"main.dart.js": "5a958eaf47f905a164dbb6dba46b9a37",
-"index.html": "8a311e06d6474e964b245c93af953270",
-"/": "8a311e06d6474e964b245c93af953270",
+"main.dart.js": "905b30639a97c81c2e4c6c8a698ef980",
+"index.html": "d027a7cd5b2540f0a8bfe32f9faedbd3",
+"/": "d027a7cd5b2540f0a8bfe32f9faedbd3",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63",
-"assets/AssetManifest.json": "64ca46ae13cf0433ff64e5ce872b84fd",
+"assets/AssetManifest.json": "f8a01ddf4e4a2181fc15fbc1cb47fda5",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "5ee1f285611168cd6df377fd21151aae",
@@ -21,6 +21,7 @@ const RESOURCES = {
 "assets/assets/images/icon_container.png": "dfc1bcb79834fda7ffa5dfce06213aa4",
 "assets/assets/images/codelessly_logo_no_background_128x.png": "e1dba5639cab54e28433ad44737bd7ec",
 "assets/assets/images/icon_cursor.png": "cace3bd4e8dd6eab330f9b3244e70495",
+"assets/assets/images/icon_arrow_back.png": "a2ec71b6495718a92159b955bbabbaca",
 "assets/assets/images/icon_link_96x.png": "201ae05544a53d3b8cfa1b3fac9923e5",
 "assets/assets/images/icon_convert.png": "a25be5b352f97fa1edf2e27d47fdb8f9",
 "assets/assets/images/icon_unwrap.png": "ccc81bb3b848812e90f61becb52f0a4a",
