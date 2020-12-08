@@ -43,8 +43,8 @@ const RESOURCES = {
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "5ee1f285611168cd6df377fd21151aae",
 "main.dart.js": "f43f3837af05fe0d7c57708a8ccd0aee",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63",
-"index.html": "5b5bad8d191429c6ef2b5ad020aee02f",
-"/": "5b5bad8d191429c6ef2b5ad020aee02f",
+"index.html": "d80c0573067c87605a9ed3d6103cc1b9",
+"/": "d80c0573067c87605a9ed3d6103cc1b9",
 "manifest.json": "bb89a551920fee2902ced31eec3f291a",
 "icons/Icon-512.png": "c6b78c233e3f49478b76758f35f33190",
 "icons/Icon-192.png": "35d68ed053ca0410400d77ccb24dda58"
