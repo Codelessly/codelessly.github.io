@@ -42,10 +42,10 @@ const RESOURCES = {
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
 "assets/NOTICES": "9129bbd152d3d218ae85f5becb3ccd3c",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "5ee1f285611168cd6df377fd21151aae",
-"main.dart.js": "3f12d9b68dcbeb4462b8503985b83190",
+"main.dart.js": "93ba9ede54a81cde54aa0e20373f0ff8",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63",
-"index.html": "ccce48d34cfb51651c53e8604f69de5e",
-"/": "ccce48d34cfb51651c53e8604f69de5e",
+"index.html": "d6c789b0a1ed88b9318b57e5f4025ec2",
+"/": "d6c789b0a1ed88b9318b57e5f4025ec2",
 "manifest.json": "bb89a551920fee2902ced31eec3f291a",
 "icons/Icon-512.png": "c6b78c233e3f49478b76758f35f33190",
 "icons/Icon-192.png": "35d68ed053ca0410400d77ccb24dda58"
