@@ -22,6 +22,7 @@ const RESOURCES = {
 "assets/assets/images/icon_angle_100x.png": "7b6c151e3a5243724c362d10f22734fb",
 "assets/assets/images/icon_text.png": "edddf6a8219ad63216ea0c514a3ee829",
 "assets/assets/images/icon_arrow_back.png": "a2ec71b6495718a92159b955bbabbaca",
+"assets/assets/images/icon_close_thick.png": "d971785a6eb7fe0dffeda06263e095e7",
 "assets/assets/images/icon_add.png": "a62aab79200ebf4508746b6785ec2b80",
 "assets/assets/images/icon_edit.png": "982665c05679bccd3e8df76ec9271e2b",
 "assets/assets/images/icon_layers.png": "f140a5deef2a6e2c69508e2073a72841",
@@ -43,13 +44,13 @@ const RESOURCES = {
 "assets/assets/images/icon_link_broken_96x.png": "c022c854891ae5097221a0318a46c546",
 "assets/assets/images/icon_aspect_ratio_96x.png": "8f90e08677e779b9cb0579d3357d0efa",
 "assets/assets/images/icon_canvas.png": "4a2397a88eb03c42a5a3f5446704582c",
-"assets/AssetManifest.json": "9b35d452d213a2a6786f12fee5b88871",
+"assets/AssetManifest.json": "7f1ed94ed85b130e74e257da030f2203",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"index.html": "98bfd1164f515786b7c17358f6c0d98a",
-"/": "98bfd1164f515786b7c17358f6c0d98a",
+"index.html": "ad292b29089f3e6a24ab4a871c59ac25",
+"/": "ad292b29089f3e6a24ab4a871c59ac25",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3",
-"main.dart.js": "362eb1561e529125621890dfd8000681",
+"main.dart.js": "d18ae65c6f98397db1bd2b488d9fb5ec",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63"
 };
 
