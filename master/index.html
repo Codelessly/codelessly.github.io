@@ -25,7 +25,7 @@
 <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=696761440');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=1810144738');
       });
     }
   </script>
@@ -50,6 +50,16 @@
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
+</script>
+<script>
+  // Prevent browser scroll.
+  window.addEventListener('wheel', function(event) {
+    if (event.ctrlKey) {
+      event.preventDefault();
+    }
+  }, {
+    passive: false
+  });
 </script>
 <script src="main.dart.js" type="application/javascript"></script>
 </body>
