@@ -39913,17 +39913,14 @@ if(q<=s&&n>0)o.i4(n-5)
 else if(q>=r&&n<150)o.i4(n+5)},
 $S:341}
 S.ajk.prototype={
-$2:function(a,b){var s,r,q,p=null,o=this.a,n=o.f[b]
-o=o.d.a.h(0,n).b
-s=o==null
-if(s)r="Canvas "+H.c(n)
-else{q=$.D
-if(q==null)q=$.D=new N.ak(H.b([N.am("baseScope")],t.U),new P.J(new P.A($.u,t._),t.c))
-q=q.ag(0,t.W).a.h(0,n)
-r=q.gjY(q)+" "+H.c(n)}if(n!=="rootNode")o=o!=="rootNode"&&!s
-else o=!0
-if(o)return M.a9(p,p,C.h,p,p,p,p,p,p,p,p,p,p)
-else return new S.qJ(n,r,new D.dF(n,t.kK))},
+$2:function(a,b){var s,r,q=null,p=this.a,o=p.f[b]
+p=p.d.a.h(0,o).b==null
+if(p)s="Canvas "+H.c(o)
+else{r=$.D
+if(r==null)r=$.D=new N.ak(H.b([N.am("baseScope")],t.U),new P.J(new P.A($.u,t._),t.c))
+r=r.ag(0,t.W).a.h(0,o)
+s=r.gjY(r)+" "+H.c(o)}if(o==="rootNode"||p)return M.a9(q,q,C.h,q,q,q,q,q,q,q,q,q,q)
+else return new S.qJ(o,s,new D.dF(o,t.kK))},
 $C:"$2",
 $R:2,
 $S:342}
