@@ -40204,7 +40204,7 @@ C:function(a,b){var s=null,r=K.aqy(new P.bn(10,10)),q=t.Q,p=H.b([new O.b6(0,C.dn
 p=M.a9(s,T.bq(H.b([new A.lX("cursor","assets/images/icon_cursor.png",o==="cursor",s),C.nQ,new A.lX("container","assets/images/icon_container.png",o==="container",s),C.nQ,new A.lX("text","assets/images/icon_text.png",o==="text",s),C.nQ,new A.lX("canvas","assets/images/icon_canvas.png",o==="canvas",s)],n),C.t,C.r,C.S),C.h,s,s,new S.bK(C.l,s,s,r,p,s,s,C.C),s,s,new V.K(12,12,12,12),s,s,s,56)
 r=K.aqy(new P.bn(15,15))
 q=H.b([new O.b6(0,C.dn,new P.l(0,3),10)],q)
-return T.bq(H.b([p,M.a9(s,T.bq(H.b([new A.lX("add","assets/images/icon_add.png",this.d==="add",s)],n),C.t,C.r,C.S),C.h,s,s,new S.bK(C.l,s,s,r,q,s,s,C.C),s,s,new V.K(16,0,12,12),s,s,s,56)],n),C.t,C.r,C.S)}}
+return T.bq(H.b([p,M.a9(s,T.bq(H.b([new A.lX("add","assets/images/icon_add.png",this.d==="add",s)],n),C.t,C.r,C.S),C.h,s,s,new S.bK(C.l,s,s,r,q,s,s,C.C),s,s,new V.K(12,0,12,12),s,s,s,56)],n),C.t,C.r,C.S)}}
 A.ai7.prototype={
 $1:function(a){var s,r=a.d
 if(r!=null){s=this.a
