@@ -50,10 +50,10 @@ const RESOURCES = {
 "assets/AssetManifest.json": "aa2834f1775b15882a4f0d93b57dfbae",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63",
-"main.dart.js": "44ae6f291bdf0e66b007340aff8c5583",
+"main.dart.js": "caf382c14afe495d87d06aa83da32c08",
 "manifest.json": "bb89a551920fee2902ced31eec3f291a",
-"index.html": "fe756d286a4070ce21bfd957184ec312",
-"/": "fe756d286a4070ce21bfd957184ec312",
+"index.html": "587144bb333cf2de7299ccaac5ae34ce",
+"/": "587144bb333cf2de7299ccaac5ae34ce",
 "icons/Icon-512.png": "c6b78c233e3f49478b76758f35f33190",
 "icons/Icon-192.png": "35d68ed053ca0410400d77ccb24dda58"
 };
