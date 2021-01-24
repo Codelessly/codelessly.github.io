@@ -51,10 +51,10 @@ const RESOURCES = {
 "assets/AssetManifest.json": "aa2834f1775b15882a4f0d93b57dfbae",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"index.html": "afcc892a70feaf6b819d7d4cdeb928f6",
-"/": "afcc892a70feaf6b819d7d4cdeb928f6",
+"index.html": "f5f01a42ad5990e29a5709136d846c57",
+"/": "f5f01a42ad5990e29a5709136d846c57",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3",
-"main.dart.js": "da70a063009eb5676431cd2261b81549",
+"main.dart.js": "805d627942a02f1dc739d4c844b7e925",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63"
 };
 
