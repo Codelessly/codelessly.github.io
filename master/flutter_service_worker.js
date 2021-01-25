@@ -16,7 +16,6 @@ const RESOURCES = {
 "assets/assets/fonts/sf_pro_text.ttf": "85bd46c1cff02c1d8360cc714b8298fa",
 "assets/assets/images/icon_container.png": "dfc1bcb79834fda7ffa5dfce06213aa4",
 "assets/assets/images/icon_export_overlay_download.png": "528c111f51da5d9a6ad91629146ddc6c",
-"assets/assets/images/icon_edit_128x.png": "72cf5eb34c2960776f4f61ae647d1f38",
 "assets/assets/images/icon_chevron_down.png": "6ea399207135117d4f8451f911ebc8f1",
 "assets/assets/images/icon_convert.png": "a25be5b352f97fa1edf2e27d47fdb8f9",
 "assets/assets/images/icon_angle_100x.png": "7b6c151e3a5243724c362d10f22734fb",
@@ -48,13 +47,13 @@ const RESOURCES = {
 "assets/assets/images/icon_aspect_ratio_96x.png": "8f90e08677e779b9cb0579d3357d0efa",
 "assets/assets/images/icon_canvas.png": "4a2397a88eb03c42a5a3f5446704582c",
 "assets/assets/images/icon_notification.png": "8ca21c9a30c469a5898b90078ecab8c3",
-"assets/AssetManifest.json": "aa2834f1775b15882a4f0d93b57dfbae",
+"assets/AssetManifest.json": "4a06aa97a3cd976ca1f7a619b04cb245",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"index.html": "f3210485109c3e1e1d0fd546fc2fe0c8",
-"/": "f3210485109c3e1e1d0fd546fc2fe0c8",
+"index.html": "0c6d5ce6c30a332a590f738acbe69269",
+"/": "0c6d5ce6c30a332a590f738acbe69269",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3",
-"main.dart.js": "5fc688d4ca0b944ce6f63eb148df80b0",
+"main.dart.js": "ae302d6aebbe9f8e88b1c6e7858077de",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63"
 };
 
