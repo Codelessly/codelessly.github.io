@@ -44627,8 +44627,8 @@ $C:"$2",
 $R:2,
 $S:218}
 R.ai6.prototype={
-$2:function(a,b){var s,r,q,p,o,n,m,l,k=null,j="baseScope",i="canvas_0",h=t.X,g=H.uJ(b.eV(new Y.qB("Number Of Root Layers","5"),h),k)
-if(g==null)g=5
+$2:function(a,b){var s,r,q,p,o,n,m,l,k=null,j="baseScope",i="rootNode",h="canvas_0",g=t.X,f=H.uJ(b.eV(new Y.qB("Number Of Root Layers","5"),g),k)
+if(f==null)f=5
 s=$.v
 if(s==null)s=$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c))
 r=t.Yq
@@ -44636,38 +44636,38 @@ q=s.a_(0,r)
 s=$.v
 if(s==null)s=$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c))
 p=s.a_(0,t.W)
-o=P.aPH(g,new R.ahR(),h)
+o=P.aPH(f,new R.ahR(),g)
 s=t.i
 n=t.et
-q.UX(P.an(["rootNode",new L.fg("rootNode",k,o,-1,k),"0",new L.fg("0",i,H.a([],s),1,k),"1",new L.fg("1",i,H.a([],s),2,k),"2",new L.fg("2",i,H.a([],s),3,k)],h,n))
-q.Hs(P.ayW(o,new R.ahS(),new R.ahT(),h,n),!0)
+q.UX(P.an(["rootNode",new L.fg(i,k,o,-1,k),"0",new L.fg("0",h,H.a([],s),1,k),"1",new L.fg("1",h,H.a([],s),2,k),"2",new L.fg("2",h,H.a([],s),3,k)],g,n))
+q.Hs(P.ayW(o,new R.ahS(),new R.ahT(),g,n),!0)
 n=t.fV
-p.Hz(P.an(["0",M.p6(k,k,C.e,k,k,k,k,k,"0",k,k,k,k),"1",M.p6(k,k,C.e,k,k,k,k,k,"1",k,k,k,k),"2",M.p6(k,k,C.e,k,k,k,k,k,"2",k,k,k,k)],h,n))
-p.HA(P.ayW(o,new R.ahU(),new R.ahV(),h,n),!0)
+p.Hz(P.an(["0",M.p6(k,k,C.e,k,k,k,k,k,"0",k,k,k,k),"1",M.p6(k,k,C.e,k,k,k,k,k,"1",k,k,k,k),"2",M.p6(k,k,C.e,k,k,k,k,k,"2",k,k,k,k)],g,n))
+p.HA(P.ayW(o,new R.ahU(),new R.ahV(),g,n),!0)
 n=H.a(["0","1","2"],s)
-h=$.v
-if(h==null)h=$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c))
-m=h.a_(0,t.AS)
-m.b.m(0,i,new G.IB(i,0,n))
-if(!C.b.C(m.c,i))m.UM(H.a(["canvas_0"],s),!0)
-h=$.v
-h=(h==null?$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c)):h).a_(0,r)
+g=$.v
+if(g==null)g=$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c))
+m=g.a_(0,t.AS)
+m.b.m(0,h,new G.IB(h,0,n))
+if(!C.b.C(m.c,h))m.UM(H.a(["canvas_0"],s),!0)
+g=$.v
+g=(g==null?$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c)):g).a_(0,r)
 r=H.a([],s)
-h.a.m(0,i,new L.fg(i,k,n,0,new T.Pa(r)))
-h=$.v
-if(h==null)h=$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c))
-h.a_(0,t.l).a.m(0,i,new D.nK(i,k,k,k,k,k,k,0,0))
-h=$.v
-if(h==null)h=$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c))
+g.a.m(0,h,new L.fg(h,i,n,0,new T.Pa(r)))
+g=$.v
+if(g==null)g=$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c))
+g.a_(0,t.l).a.m(0,h,new D.nK(h,k,k,k,k,k,k,0,0))
+g=$.v
+if(g==null)g=$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c))
 r=t.d3
-if(h.a_(0,r).U0(i)==null){h=H.a([],s)
+if(g.a_(0,r).U0(h)==null){g=H.a([],s)
 l=new R.IC(k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k)
-l.t_$=i
+l.t_$=h
 l.xC$=0
-l.EH$=h
-h=$.v;(h==null?$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c)):h).a_(0,r).a.m(0,i,l)}h=H.a([],s)
-s=new O.aC(h,H.a([],s))
-C.b.B(h,H.a("editorManager".split("/"),t.s))
+l.EH$=g
+g=$.v;(g==null?$.v=new N.a8(H.a([N.ab(j)],t.U),new P.I(new P.w($.u,t._),t.c)):g).a_(0,r).a.m(0,h,l)}g=H.a([],s)
+s=new O.aC(g,H.a([],s))
+C.b.B(g,H.a("editorManager".split("/"),t.s))
 s=new O.aA(s,new O.aB(s)).ag(0,"layers")
 s.b.bB(s,k,!0)
 return M.K(k,new S.Aa(k),C.e,k,k,k,k,250,k,k,k,k,k,320)},
@@ -44843,7 +44843,7 @@ p.a.A(0,a)
 C.b.A(p.b,a)}}
 L.fg.prototype={
 j:function(a){var s=this
-return"LayoutModel(id: "+H.c(s.a)+", parentID: "+H.c(s.b)+", childIDs: "+H.c(s.c)+", index: "+s.d+", widgetData: "+H.c(s.e)+")"}}
+return"LayoutModel(id: "+H.c(s.a)+", parentID: "+H.c(s.b)+", childIDs: "+H.c(s.c)+", index: "+s.d+", widgetData: "+H.c(s.e)+", shouldRenderInteraction: false)"}}
 S.N7.prototype={}
 B.Oh.prototype={}
 S.PU.prototype={}
