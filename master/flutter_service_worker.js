@@ -48,14 +48,14 @@ const RESOURCES = {
 "assets/assets/fonts/product_sans_regular.ttf": "eae9c18cee82a8a1a52e654911f8fe83",
 "assets/assets/fonts/sf_pro_display_medium.otf": "fb9b9cc0d18e37d34fee679aa55d7f3f",
 "assets/assets/fonts/product_sans_bold.ttf": "dba0c688b8d5ee09a1e214aebd5d25e4",
-"assets/NOTICES": "ca148fe92e409941819182d882ac15fc",
+"assets/NOTICES": "a1e9f6255976d8b049f54d57cf70eb49",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
 "assets/AssetManifest.json": "50d1acc9e0a4e23880c87f8f16dc60ef",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "5ee1f285611168cd6df377fd21151aae",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"index.html": "17326537b7dae466578c61908eea7373",
-"/": "17326537b7dae466578c61908eea7373",
-"main.dart.js": "27922ecc823c1e13a5550aec8fd59f33",
+"index.html": "1b64efd38161530d3c06c07dda465fdf",
+"/": "1b64efd38161530d3c06c07dda465fdf",
+"main.dart.js": "5970190632571db695e5a1de4a6a9ea8",
 "icons/Icon-512.png": "c6b78c233e3f49478b76758f35f33190",
 "icons/Icon-192.png": "35d68ed053ca0410400d77ccb24dda58",
 "manifest.json": "bb89a551920fee2902ced31eec3f291a",
@@ -204,7 +204,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
