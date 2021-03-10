@@ -65,9 +65,9 @@ const RESOURCES = {
 "assets/AssetManifest.json": "f644d3f2ef261add681070f7eeae7753",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "dbebbbd17ef2874a24c14a875b9d30e9",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
-"index.html": "200261609e4dbe667ddee568cfe64c65",
-"/": "200261609e4dbe667ddee568cfe64c65",
-"main.dart.js": "4344c9d2158517eba66b50ef4e8272c0",
+"index.html": "44512a5b989dfc06428cc80cef730918",
+"/": "44512a5b989dfc06428cc80cef730918",
+"main.dart.js": "6abc1cff1b66d633abe3c8d41a60b099",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63"
 };
