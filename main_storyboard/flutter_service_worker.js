@@ -70,9 +70,9 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/AssetManifest.json": "76622f667ae77b89aaaea206b30e0d48",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
-"index.html": "293972285f8667ffa74387c08f84b9a4",
-"/": "293972285f8667ffa74387c08f84b9a4",
-"main.dart.js": "afb49f5c3b6d4eb0a94bcbbce9df7af1",
+"index.html": "c5ad6fd05798a70cfa5eb74d86bf554d",
+"/": "c5ad6fd05798a70cfa5eb74d86bf554d",
+"main.dart.js": "35baa47071d214ea6681e30e45fde0de",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63"
 };
