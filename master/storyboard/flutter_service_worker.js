@@ -70,8 +70,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/AssetManifest.json": "76622f667ae77b89aaaea206b30e0d48",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
-"index.html": "071e3cfe9d51352a8b3b0d27d7a1ff2d",
-"/": "071e3cfe9d51352a8b3b0d27d7a1ff2d",
+"index.html": "12971915707331298405f4fdb0a243b2",
+"/": "12971915707331298405f4fdb0a243b2",
 "main.dart.js": "3f35e10a1034267c97a6b772b51df024",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63"
