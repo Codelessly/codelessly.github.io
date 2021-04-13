@@ -7,11 +7,11 @@ const RESOURCES = {
 "icons/Icon-192.png": "35d68ed053ca0410400d77ccb24dda58",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63",
 "manifest.json": "bb89a551920fee2902ced31eec3f291a",
-"index.html": "a5bcfd1da6dcb5ce4e79b7a6a1283d1b",
-"/": "a5bcfd1da6dcb5ce4e79b7a6a1283d1b",
+"index.html": "5c29723fd30af7a5a9093eb7f96b4446",
+"/": "5c29723fd30af7a5a9093eb7f96b4446",
 "assets/NOTICES": "95b0912d65a8b91067454d264c06c24d",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/AssetManifest.json": "bad47434dc38d258e28d426677344df1",
+"assets/AssetManifest.json": "72e2ce98c0cfce85e72b75d4595dc202",
 "assets/assets/images/icon_canvas.png": "4a2397a88eb03c42a5a3f5446704582c",
 "assets/assets/images/icon_convert.png": "a25be5b352f97fa1edf2e27d47fdb8f9",
 "assets/assets/images/icon_image.png": "3adb4ea356193b1f186b51793cf74007",
@@ -67,6 +67,7 @@ const RESOURCES = {
 "assets/assets/images/icon_border_bottom.png": "1b8f2426feba21412144c216f6ca5be6",
 "assets/assets/images/icon_button.png": "2b161c2c2f18a8ddcc52990410eea084",
 "assets/assets/images/icon_border_top.png": "9ee6cb39ad5628c86523465e7270bff5",
+"assets/assets/images/icon_drag.png": "c1e3a847fd9308d37e59fbbf7385ccfc",
 "assets/assets/images/icon_notification.png": "8ca21c9a30c469a5898b90078ecab8c3",
 "assets/assets/images/icon_border_all.png": "2b7fecfb7490946626cd10d1f8a6c973",
 "assets/assets/images/icon_link_96x.png": "201ae05544a53d3b8cfa1b3fac9923e5",
@@ -83,7 +84,7 @@ const RESOURCES = {
 "assets/assets/fonts/product_sans_bold.ttf": "dba0c688b8d5ee09a1e214aebd5d25e4",
 "assets/assets/fonts/sf_pro_display_bold.otf": "01a151b865c124f88ef147e5592bae76",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
-"main.dart.js": "bf7675fa098f3ad290de75bfd0b89043",
+"main.dart.js": "5e2261d89b6bdf2f82fbf38be977112f",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3"
 };
 
