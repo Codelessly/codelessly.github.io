@@ -84,8 +84,8 @@ const RESOURCES = {
 "assets/assets/fonts/sf_pro_text.ttf": "85bd46c1cff02c1d8360cc714b8298fa",
 "assets/assets/fonts/sf_pro_display_medium.otf": "fb9b9cc0d18e37d34fee679aa55d7f3f",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
-"index.html": "1899c2bec2788e68ca1ef6be026f0b10",
-"/": "1899c2bec2788e68ca1ef6be026f0b10"
+"index.html": "c43d13f976468e97a56206b404830d28",
+"/": "c43d13f976468e97a56206b404830d28"
 };
 
 // The application shell files that are downloaded before a service worker can
