@@ -79,15 +79,15 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "83e38acaa82e614610918e3f4a16fb03",
 "assets/AssetManifest.json": "b0e90297981832460462ef337d699473",
-"assets/NOTICES": "37231f9021f8cb718bcdbe6eb818a8b3",
+"assets/NOTICES": "109479b020b4e0339b209551d23f2d9d",
 "icons/Icon-512.png": "c6b78c233e3f49478b76758f35f33190",
 "icons/Icon-192.png": "35d68ed053ca0410400d77ccb24dda58",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63",
 "version.json": "2ba54df2b68ad225c21b365ac73190f3",
 "manifest.json": "bb89a551920fee2902ced31eec3f291a",
-"main.dart.js": "1963a158ace113ebc699935c9c3a6993",
-"index.html": "45211f850286c811ece2c55ba1cff305",
-"/": "45211f850286c811ece2c55ba1cff305"
+"main.dart.js": "de7704ddb556c4a2f59d763865af596b",
+"index.html": "d1aa1954bc481cc45768aa2200034991",
+"/": "d1aa1954bc481cc45768aa2200034991"
 };
 
 // The application shell files that are downloaded before a service worker can
