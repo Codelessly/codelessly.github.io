@@ -4,12 +4,12 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2ba54df2b68ad225c21b365ac73190f3",
-"main.dart.js": "80a6ed03d2cb0ec37d6f379928b45905",
-"index.html": "fd072be5e521d7bc1f242c94114b6963",
-"/": "fd072be5e521d7bc1f242c94114b6963",
+"main.dart.js": "356e6a5c70e9ba42dae7115fb4fca037",
+"index.html": "e5d7f3e928d5b835a6f4613672a15095",
+"/": "e5d7f3e928d5b835a6f4613672a15095",
 "assets/packages/storybook_flutter/assets/README.md": "fbaed1ae60d80596d99545ef45d72803",
 "assets/AssetManifest.json": "fd1865e13c02abddbd15e37c3817c30a",
-"assets/NOTICES": "ff496c7c947bacdc21405769be19c060",
+"assets/NOTICES": "cd04b74c79e88e3b51403a1ccc57f47c",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/fonts/sf_pro_display.otf": "5810cdf5bc7db8d0090a6c46890ee33b",
 "assets/assets/fonts/sf_pro_display_bold.otf": "01a151b865c124f88ef147e5592bae76",

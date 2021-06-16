@@ -5062,6 +5062,7 @@ collection
 convert
 http2
 mime
+source_gen
 stream_channel
 typed_data
 
@@ -8420,6 +8421,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 graphs
 io
 json_annotation
+json_serializable
 pedantic
 platform
 process
