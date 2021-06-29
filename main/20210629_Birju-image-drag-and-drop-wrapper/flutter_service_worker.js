@@ -88,8 +88,8 @@ const RESOURCES = {
 "assets/FontManifest.json": "58817aee756f2ed5b522c47a7d2809aa",
 "favicon.png": "e90970289dac1c88a078f4acaa7b6c63",
 "main.dart.js": "263863c7f74bb915a30f5e743218ff8c",
-"index.html": "1c34f8b53ff31d7515a210c17c678b67",
-"/": "1c34f8b53ff31d7515a210c17c678b67"
+"index.html": "6a4e003763520cdf4a23747decddeeaf",
+"/": "6a4e003763520cdf4a23747decddeeaf"
 };
 
 // The application shell files that are downloaded before a service worker can
